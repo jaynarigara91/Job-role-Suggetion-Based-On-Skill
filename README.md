@@ -25,7 +25,8 @@ https://github.com/user-attachments/assets/2454266d-555a-4a0c-99f7-56ac2721a5b8
 
 ## 🐳 Docker Hub Repository
 
-You can find the Docker image for this project on Docker Hub: https://hub.docker.com/repository/docker/jay7556/job_recommend_system/general
+You can find the Docker image for this project on Docker Hub:
+[Docker Hub Repository](https://hub.docker.com/repository/docker/jay7556/job_recommend_system/general)
 
 ### How to Pull the Image
 You can pull the image using the following command:
